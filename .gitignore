@@ -1,0 +1,19 @@
+.venv
+.vscode
+__pycache__
+captcha
+logs
+database
+get_prefectures_data
+study_and_sorty
+prank.py
+scraped_data3.json
+test_notifier.py
+test_proxy_resi.py
+scraper/archive
+scraper/errors
+scraper/test_notifier
+scraper/browser_proxied copy.py
+notifier/archive
+list_resident_proxyseller.txt
+scraper_missing.py
